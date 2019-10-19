@@ -1,5 +1,7 @@
 /* exported L10N */
 const L10N = {
+    'general_default_imagefilter': 'Προεπιλεγμένο φίλτρο εικόνας',
+    'default_imagefilter': 'Επιλέξτε φίλτρο εικόνας',
     'continuous_collage': 'Εγγραφή κολάζ χωρίς διακοπή',
     'delete': 'διαγραφή',
     'using_latest_version': 'Το Photobooth είναι ενημερωμένο.',

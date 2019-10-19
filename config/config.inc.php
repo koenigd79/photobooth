@@ -20,6 +20,7 @@ $config['file_format_date'] = false;
 $config['cntdwn_time'] = '5'; // control countdown timer
 $config['cheese_time'] = '1000'; // control time for cheeeeese!
 $config['use_filter'] = true;
+$config['default_imagefilter'] = 'imgPlain';
 $config['polaroid_effect'] = false;
 $config['polaroid_rotation'] = '0';
 $config['chroma_keying'] = true;

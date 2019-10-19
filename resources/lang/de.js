@@ -1,5 +1,7 @@
 /* exported L10N */
 const L10N = {
+    'general_default_imagefilter': 'Standardbildfilter',
+    'default_imagefilter': 'Bildfilter auswählen',
     'continuous_collage': 'Collage ohne Unterbrechung aufnehmen',
     'delete': 'Löschen',
     'using_latest_version': 'Photobooth ist auf dem aktuellen Stand.',
