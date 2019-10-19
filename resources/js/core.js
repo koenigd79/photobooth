@@ -134,9 +134,15 @@ const photoBooth = (function () {
         }
 
         loader.addClass('open');
-        public.startCountdown(config.cntdwn_time, $('#counter'), () => {
-            public.cheese(photoStyle);
-        });
+        if (nextCollageNumber) {
+            public.startCountdown(config.collage_cntdwn_time, $('#counter'), () => {
+                public.cheese(photoStyle);
+            });
+        } else {
+            public.startCountdown(config.cntdwn_time, $('#counter'), () => {
+                public.cheese(photoStyle);
+            });
+        }
     }
 
     // Cheese

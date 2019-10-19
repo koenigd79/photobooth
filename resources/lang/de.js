@@ -1,5 +1,7 @@
 /* exported L10N */
 const L10N = {
+    'collage_cntdwn_time': 'Collage-Countdown Timer einstellen',
+    'general_collage_cntdwn_time': 'Collage-Countdown Timer in Sekunden',
     'continuous_collage': 'Collage ohne Unterbrechung aufnehmen',
     'delete': 'Löschen',
     'using_latest_version': 'Photobooth ist auf dem aktuellen Stand.',

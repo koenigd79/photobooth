@@ -1,5 +1,7 @@
 /* exported L10N */
 const L10N = {
+    'collage_cntdwn_time': 'Ajuste la cuenta regresiva del collage.',
+    'general_collage_cntdwn_time': 'Cuenta regresiva del collage en segundos',
     'continuous_collage': 'Toma collage sin interrupción',
     'delete': 'Eliminar',
     'using_latest_version': 'Estás utilizando la última versión de photobooth',
